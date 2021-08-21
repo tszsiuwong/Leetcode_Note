@@ -13,3 +13,4 @@
   - 2021.8.8 (11. Leetcode 404.）
   - 2021.8.8 pass (337. House Robber III (Medium))
   - 2021.8.9 层次遍历 1 637
+  - 2021.8.21 2. 寻找二叉查找树的第 k 个元 230. Kth Smallest Element in a BST (Medium)
